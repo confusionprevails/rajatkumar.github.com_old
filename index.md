@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome!
+title: Welcome to Rajat's Blog!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -11,7 +11,7 @@ This is an awesome time to be a developer.
 > Code is basically everywhere, smeared over everything we do like an invisible icing on the cake of life.
 > 
 
-I am a software developer and I know I have the ‘power to create‘.
+
 
 
    
